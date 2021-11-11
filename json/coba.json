@@ -1,0 +1,24 @@
+[
+    {
+    "nama" : "Sandhika",
+    "umur" : 30,
+    "nip"  : "0841689698",
+    "lulus" : true,
+    "hobby" : ["coding","gaming"],
+    "pembimbing" : {
+        "pembimbing1" : "satu",
+        "pembimbing2" : "dua"
+    }
+},
+{
+    "nama" : "Sandhika",
+    "umur" : 30,
+    "nip"  : "0841689698",
+    "lulus" : true,
+    "hobby" : ["coding","gaming"],
+    "pembimbing" : {
+        "pembimbing1" : "tiga",
+        "pembimbing2" : "dua"
+    }
+}
+]
